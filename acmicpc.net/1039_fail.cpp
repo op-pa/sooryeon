@@ -37,16 +37,17 @@ using namespace std;
 
 #define TEN 10
 
+int N,K;
+int cant=-1;
+	
 void solve(int N,int K)
 {
-	
+   	
 }
 
 int main()
 {
 
-	int N,K;
-	int cant=-1;
 	cin >> N >> K;
 	if(N>9)
 		solve(N,K);
